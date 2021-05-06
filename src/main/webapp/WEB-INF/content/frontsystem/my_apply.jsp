@@ -23,6 +23,7 @@
 </fieldset>
 
 
+
 <table id="demo" lay-filter="test"></table>
 <div id="detail" style="display: none">
     <div class="layui-form-item">
